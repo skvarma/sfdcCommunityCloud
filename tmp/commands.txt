@@ -1,0 +1,1 @@
+sfdx force:project:create -n sfdcCommunityCloud --template standard -d sfdcCommunityCloud
