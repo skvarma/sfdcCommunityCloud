@@ -1,4 +1,4 @@
-# SFDX App
+# SFDC Communities
 
 ### New Features
 1. Head less CMS (create CMS content once and tie to multiple communioty site)
