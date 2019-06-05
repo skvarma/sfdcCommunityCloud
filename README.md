@@ -20,8 +20,8 @@
     - hulu - unauthenticated site - 
 8. Licencing
     - tiered licensing
-    - # of objects to be expose
-    - # of APIs
+    - number of objects to be expose
+    - number of APIs
 9. Custom Dev
     - LWC is recomended
     - LCC - Lighting Custom Components - embed Angular, React & Vue 
